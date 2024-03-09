@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691219642 source:f:\embedded abdelbaset\day 4 - loops\sheet 1 soln\q6sheet1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+

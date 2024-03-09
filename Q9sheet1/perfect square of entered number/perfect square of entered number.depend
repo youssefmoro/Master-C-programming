@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691305214 source:f:\embedded abdelbaset\day5-signed number\perfect square of entered number\main.c
+	<stdio.h>
+	<stdlib.h>
+

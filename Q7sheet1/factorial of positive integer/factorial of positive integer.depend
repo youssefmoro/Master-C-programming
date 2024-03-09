@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691313917 source:f:\embedded abdelbaset\day5-signed number\factorial of positive integer\main.c
+	<stdio.h>
+	<stdlib.h>
+
