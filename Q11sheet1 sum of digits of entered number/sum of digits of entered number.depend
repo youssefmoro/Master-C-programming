@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691205660 source:f:\embedded abdelbaset\day 4 - loops\sum of digits of entered number\main.c
+	<stdio.h>
+	<stdlib.h>
+
