@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691861436 source:f:\embedded abdelbaset\day10-call by refrence - float numbers\func with overflow warning message\main.c
+	<stdio.h>
+	<stdlib.h>
+

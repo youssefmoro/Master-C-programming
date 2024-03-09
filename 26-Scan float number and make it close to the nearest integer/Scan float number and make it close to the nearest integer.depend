@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691866683 source:f:\embedded abdelbaset\day10-call by refrence - float numbers\scan float number and make it close to the nearest integer\main.c
+	<stdio.h>
+	<stdlib.h>
+

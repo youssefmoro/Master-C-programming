@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691758048 source:f:\embedded abdelbaset\day9-functions\print prime numbers bet 2 entered num func\main.c
+	<stdio.h>
+	<stdlib.h>
+
