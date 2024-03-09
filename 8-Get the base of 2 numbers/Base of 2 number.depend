@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691314828 source:f:\embedded abdelbaset\day5-signed number\base of 2 number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
