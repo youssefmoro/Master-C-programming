@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694956027 source:f:\embedded abdelbaset\day34- linked list\stack using linked list\stackusinglinkedlist.c
+	"stackusinglinkedlist.h"
+
+1694955946 f:\embedded abdelbaset\day34- linked list\stack using linked list\stackusinglinkedlist.h
+
+1694955957 source:f:\embedded abdelbaset\day34- linked list\stack using linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackusinglinkedlist.h"
+

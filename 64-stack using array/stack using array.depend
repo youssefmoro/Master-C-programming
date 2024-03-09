@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1694682512 source:f:\embedded abdelbaset\day31-union,stack\stack using array\stack.c
+	"stack.h"
+
+1694682512 f:\embedded abdelbaset\day31-union,stack\stack using array\stack.h
+
+1694682611 source:f:\embedded abdelbaset\day31-union,stack\stack using array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1694912961 source:f:\embedded abdelbaset\day34- linked list\stack using array\stack.c
+	"stack.h"
+
+1694912961 f:\embedded abdelbaset\day34- linked list\stack using array\stack.h
+
+1694908141 source:f:\embedded abdelbaset\day34- linked list\stack using array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

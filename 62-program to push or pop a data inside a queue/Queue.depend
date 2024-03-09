@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694746659 source:f:\embedded abdelbaset\day31-union,stack\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1694746958 f:\embedded abdelbaset\day31-union,stack\queue\queue.h
+

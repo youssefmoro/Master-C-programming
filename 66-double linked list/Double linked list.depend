@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695029853 source:f:\embedded abdelbaset\day35-double linked list\double linked list\doublelist.c
+	"doublelist.h"
+
+1695029618 f:\embedded abdelbaset\day35-double linked list\double linked list\doublelist.h
+
+1695029888 source:f:\embedded abdelbaset\day35-double linked list\double linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doublelist.h"
+

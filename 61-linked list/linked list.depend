@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695012457 source:f:\embedded abdelbaset\day34- linked list\linked list\list.c
+	"list.h"
+
+1694949861 f:\embedded abdelbaset\day34- linked list\linked list\list.h
+
+1695012836 source:f:\embedded abdelbaset\day34- linked list\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
