@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692600660 source:f:\embedded abdelbaset\day16-scan string\string to integer function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

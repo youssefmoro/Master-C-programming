@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692939448 source:f:\embedded abdelbaset\day19-dynamic allocation\heap detection by user func\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693057073 source:f:\embedded abdelbaset\day20-big o\linear search func\main.c
+	<stdio.h>
+	<stdlib.h>
+
