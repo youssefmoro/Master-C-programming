@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693299054 source:f:\embedded abdelbaset\day21-sorting\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694362328 source:f:\embedded abdelbaset\day28- struct\oldest student\main.c
+	<stdio.h>
+	<stdlib.h>
+	"oldeststudent.h"
+
+1694241438 f:\embedded abdelbaset\day28- struct\oldest student\oldeststudent.h
+

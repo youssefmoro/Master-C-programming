@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693300007 source:f:\embedded abdelbaset\day21-sorting\count_sort_trial\main.c
+	<stdio.h>
+	<stdlib.h>
+

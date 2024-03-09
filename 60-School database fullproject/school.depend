@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694649150 source:f:\embedded abdelbaset\day28- struct\school data base project\school\school.c
+	"school.h"
+
+1694582517 f:\embedded abdelbaset\day28- struct\school data base project\school\school.h
+
+1694649150 source:f:\embedded abdelbaset\day28- struct\school data base project\school\main.c
+	<stdio.h>
+	<stdlib.h>
+	"school.h"
+

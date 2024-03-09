@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694223640 source:f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\scan struct student by value and refrence\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student func.h"
+
+1694223640 f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\scan struct student by value and refrence\student func.h
+

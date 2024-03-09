@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694222210 source:f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\student print\student.c
+	"student.h"
+
+1694219353 f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\student print\student.h
+
+1694222245 source:f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\student print\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1694218025 f:\embedded abdelbaset\day27 - struct and conditiona compilation\struct print\student print\student.c
+	"student.h"
+
