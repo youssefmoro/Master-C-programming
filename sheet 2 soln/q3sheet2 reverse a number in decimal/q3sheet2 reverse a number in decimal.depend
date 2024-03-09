@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691567956 source:f:\embedded abdelbaset\materials\sheets solutions\sheet 2 soln\q3sheet2 reverse a number in decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
