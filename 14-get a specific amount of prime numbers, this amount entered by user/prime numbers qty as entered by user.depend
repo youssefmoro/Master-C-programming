@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691369119 source:f:\embedded abdelbaset\day6-characters -post n pre increment - primenumbers\prime numbers qty as entered by user\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691546632 source:f:\embedded abdelbaset\day7-bitwise operations\mul every input by 7 with shift\main.c
+	<stdio.h>
+	<stdlib.h>
+
