@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692406665 source:f:\embedded abdelbaset\day16-scan string\scan string from user\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692492881 source:f:\embedded abdelbaset\day16-scan string\resession\scan string from user\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692137348 source:f:\embedded abdelbaset\day12-scan array\function to scan array from user and save it at predefined one\function array search\main.c
+	<stdio.h>
+	<stdlib.h>
+

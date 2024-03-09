@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692408937 source:f:\embedded abdelbaset\day16-scan string\scan_string instructor solution\main.c
+	<stdio.h>
+	<stdlib.h>
+
